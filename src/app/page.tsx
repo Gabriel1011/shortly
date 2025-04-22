@@ -72,7 +72,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gray-100 dark:bg-neutral-900 text-neutral-900 dark:text-white py-12 px-4">
       <div className="max-w-5xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 text-center">🔗 Encortei</h1>
+        <h1 className="text-4xl font-bold mb-8 text-center">🔗 Shortly</h1>
 
         {/* Formulário de criação */}
         <div className="bg-white dark:bg-neutral-800 shadow-md rounded-lg p-6 mb-8">
